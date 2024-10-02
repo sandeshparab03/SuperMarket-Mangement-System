@@ -1,0 +1,4 @@
+1 Bread 60 2
+2 Cheese 50 2
+3 Juice 70 2
+5 Eggs 170 4

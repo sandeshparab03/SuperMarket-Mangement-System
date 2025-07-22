@@ -44,5 +44,3 @@ Each product in `database.txt` is stored as:
 - All data is stored in plain text (`database.txt`).
 - The program is for educational/demo purposes and does not use advanced security or error handling.
 
-## Author
-- [Your Name Here]
